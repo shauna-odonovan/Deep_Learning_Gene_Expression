@@ -54,3 +54,4 @@ where og_X are the actual gene expression values
 
 #References
 1.	Igarashi, Y., Nakatsu, N., Yamashita, O, Ono, A., Urushidani, T., Yamada, H., Open TG-GATEs: a large-scale toxicogenomics database. Nucleic Acids Res. 43, 21-7.
+
